@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
       "User: unknown",
       "IP: Loading...",
       "System: Loading...", // System information placeholder
-      "Bio Loaded",
+      "Trailer FivemX",
       "Press Enter To Continue",
   ];
   var currentIndex = 0;
